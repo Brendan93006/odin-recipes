@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I used multiple HTML tags to display pictures, links to redirect to different pages, and created ordered and unordered lists. This project includes 5 total files (including this one) and 4 of which are html files. I had index.html as my home pages, and 3 different html files with different recipes: tacos.html, sushi.html, and donuts.html.
